@@ -1,6 +1,6 @@
 SHELF ORGANIZER:
 
-This is a beginner-friendly Python program that checks whether two books are arranged in the correct order on a shelf, based on their unique 4-line codes.
+This is a Python program that checks whether two books are arranged in the correct order on a shelf, based on their unique 4-line codes.
 
 TOOLS:
 This project was created using Python 3 and standard libraries only. No external libraries were required.
